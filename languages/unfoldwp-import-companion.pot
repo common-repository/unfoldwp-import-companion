@@ -1,0 +1,61 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: UnfoldWP Import Companion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-30 10:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: unfoldwp-import-companion"
+
+#. Description of the plugin
+msgid "Awesome starter templates for themes made by UnfoldWP"
+msgstr ""
+
+#: unfoldwp-import-companion.php:257
+msgid "Demo Import"
+msgstr ""
+
+#: unfoldwp-import-companion.php:365
+msgid ""
+"Get access to carefully crafted professional and visually appealing website "
+"templates, saving you valuable time and effort in the development process."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://unfoldwp.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/unfoldwp-import-companion/"
+msgstr ""
+
+#: unfoldwp-import-companion.php:400
+msgid "Premium"
+msgstr ""
+
+#: unfoldwp-import-companion.php:363
+msgid "Starter Templates"
+msgstr ""
+
+#. Author of the plugin
+msgid "UnfoldWP"
+msgstr ""
+
+#. Name of the plugin
+msgid "UnfoldWP Import Companion"
+msgstr ""
+
+#: unfoldwp-import-companion.php:145
+msgid ""
+"UnfoldWP Import Companion is not effective. Please install & activate One "
+"click Demo Import plugin first."
+msgstr ""
